@@ -4,7 +4,7 @@ Tech Used: Python, FastAPI and SQLite
 
 ### Steps to Run
 
-#### Local
+#### Locally Run via virtualenv
 
 - `cd youtube`
 - Create Python Virtual Env 
